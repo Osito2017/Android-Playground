@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="semc_theme_lockscreen_wallpaper" id="0x7f020000" />
+    <public type="drawable" name="semc_theme_wallpaper" id="0x7f020002" />
+    <public type="drawable" name="semc_theme_preview" id="0x7f020001" />
+    <public type="string" name="semc_theme_title" id="0x7f030000" />
+</resources>

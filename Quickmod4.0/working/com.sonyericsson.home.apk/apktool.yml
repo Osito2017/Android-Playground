@@ -1,0 +1,10 @@
+version: 1.5.2
+apkFileName: com.sonyericsson.home.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  cur_package: com.sonymobile.dummy
+  orig_package: com.sonymobile.dummy
+compressionType: false

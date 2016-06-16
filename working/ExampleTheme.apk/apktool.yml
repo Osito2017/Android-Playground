@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: ExampleTheme.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: somc.theme.onlyfor.example
+  orig_package: somc.theme.onlyfor.example
+compressionType: true

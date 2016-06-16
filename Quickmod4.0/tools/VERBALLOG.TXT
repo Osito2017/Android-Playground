@@ -1,0 +1,16 @@
+ Starting decompiling process for apk file  
+ Error while decompiling apk file  
+---------------------------------------------------- 
+********************************************************************************************* 
+                    VERBAL LOG STARTED AT Wed 06/15/2016/16:15:20.00 
+********************************************************************************************* 
+ Java installation detected 
+ Compression level 9 
+ Java heap size 512 
+ Working apk  
+ Working jar  
+********************************************************************************************* 
+ Starting decompiling process for apk file com.sonyericsson.home.apk 
+ Finished decompiling process for apk file com.sonyericsson.home.apk 
+ Folder created "working/com.sonyericsson.home.apk" 
+---------------------------------------------------- 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="2" android:versionName="2.0" package="somc.theme.onlyfor.example"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <runtime-skin version="1">
+        <asset path="android.zip" target="android">
+            <laf-version-filter from="1" to="1" />
+        </asset>
+        <asset path="com.sonyericsson.uxp.zip" target="com.sonyericsson.uxp">
+            <laf-version-filter from="1" to="1" />
+        </asset>
+        <asset path="com.android.systemui.zip" target="com.android.systemui">
+            <laf-version-filter from="1" to="1" />
+        </asset>
+        <asset path="com.sonyericsson.home.zip" target="com.sonyericsson.home">
+            <laf-version-filter from="1" to="1" />
+        </asset>
+    </runtime-skin>
+    <uses-permission android:name="com.sonymobile.permission.RUNTIME_SKIN" />
+    <application android:label="@string/semc_theme_title" android:icon="@drawable/semc_theme_preview">
+        <uses-library android:name="com.sonymobile.runtimeskinning" />
+        <meta-data android:name="com.sonymobile.runtimeskinning.core.image_wallpaper" android:resource="@drawable/semc_theme_wallpaper" />
+        <meta-data android:name="com.sonymobile.runtimeskinning.core.lockscreen_background" android:resource="@drawable/semc_theme_lockscreen_wallpaper" />
+    </application>
+</manifest>
